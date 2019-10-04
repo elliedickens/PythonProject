@@ -1,0 +1,15 @@
+INSTRUCTIONS:
+
+1. Press start when ready to play and enter two player names
+2. The computer will determine who gets the first go
+3. Receive 7 random letters
+4. Out of these letters, create a word from the English Dictionary
+5. Place these letters on the board to score the most points
+6. The first word placed on the board, must have a letter on the grey circle
+7. A player cannot use another players letter that has been put down unless they have that letter as well
+8. The more difficult the letter is to use,the higher the amount of points it is worth
+9. The amount of letters you use will be replaced with letters from the pool
+10. If you can't go, enter '0',this will move onto the next players turn and you will get 1 extra letter
+11. The winner is the player with the most points when 7 rounds are finished!
+
+
